@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    /* padding: 10px; */
+    margin: 40px 10px;
+}
+
+
+.para1{
+    margin: 10px 10px 40px 10px;
+}
+
+.para4{
+    padding: 30px;
+}
